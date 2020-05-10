@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AirportApp</string>
+    <string name="Username">Username</string>
+    <string name="display">Welcome!\nEnter:</string>
+    <string name="Password">Password</string>
+    <string name="CreateAccount">Create Account</string>
+    <string name="Resersve">Reserve Seat</string>
+    <string name="Cancel">Cancel Reservation</string>
+    <string name="Manage">Manage System</string>
+    <string name="DepartInfo">Enter Departure and Arrival Information</string>
+    <string name="Departure">Departure Location</string>
+    <string name="Arrival">Arrival Location</string>
+    <string name="search">Search Flights...</string>
+    <string name="numTickets"># of Tickets</string>
+    <string name="admDisplay">Enter Administrator Username and Password</string>
+    <string name="login">Login</string>
+    <string name="next">Continue...</string>
+    <string name="flightNum">Flight Number</string>
+    <string name="departTime">Departure Time</string>
+    <string name="numSeats">Flight Capacity</string>
+    <string name="cost">Price $0.00</string>
+    <string name="addFlight">Add Flight</string>
+    <string name="loginDisplay">Enter your Username, Password, and FLight Number you\'d you like to purchase</string>
+    <string name="loginAdd"><![CDATA[Login & Add Flight]]></string>
+    <string name="cancelDisplay">Enter Username and Password</string>
+    <string name="purchaseId">Purchase Id Number</string>
+</resources>
